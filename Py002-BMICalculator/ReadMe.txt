@@ -34,13 +34,13 @@ BMI ≈ 22.86
 4. Run the following command:
 
 ```bash
-main.py
+python main.py
 ```
 
 Alternatively, on systems using `python3`:
 
 ```bash
-main.py
+python3 main.py
 ```
 
 ## 💻 Example Output
