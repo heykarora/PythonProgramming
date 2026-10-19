@@ -23,13 +23,13 @@ This project is a great way to practice basic Python programming concepts.
 4. Run the following command:
 
 ```bash
-main.py
+python main.py
 ```
 
 If your system uses `python3`, run:
 
 ```bash
-main.py
+python3 main.py
 ```
 
 ## 💻 Example Output
