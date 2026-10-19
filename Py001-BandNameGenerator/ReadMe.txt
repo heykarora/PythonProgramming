@@ -23,13 +23,13 @@ This project is a great way to practice basic Python programming concepts.
 4. Run the following command:
 
 ```bash
-python band_name_generator.py
+main.py
 ```
 
 If your system uses `python3`, run:
 
 ```bash
-python3 band_name_generator.py
+main.py
 ```
 
 ## 💻 Example Output
